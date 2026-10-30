@@ -12,6 +12,9 @@ Homework 4**
 # Overview
 
 ![](images/splash.png)
+
+Demo Video:
+
 [![Demo video](https://img.youtube.com/vi/5lzAEwowpok/maxresdefault.jpg)](https://www.youtube.com/watch?v=5lzAEwowpok)
 
 This project invovled creating a custom procedural building creator tool using Houdini. The tool allows users to specify the number and dimensions of the floors of their building, and these segments will automatically be popoulated with assets and additional procedural geometry. Much of the implementation followed this excellent tutorial by [Simon Houdini](https://youtu.be/uIe97023sDk?si=znT3d5FOex_nmTrb).
